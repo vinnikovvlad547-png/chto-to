@@ -82,7 +82,7 @@ def send_about(message):
     """Сообщение о проекте."""
     bot.send_message(
         message.chat.id,
-        'Погодный бот\n\nИспользует OpenWeatherMap API\nСоздан для показа текущей погоды по геопозиции.'
+        '🤖 Погодный бот\n\nИспользует OpenWeatherMap API\nСоздан для показа текущей погоды по геопозиции.'
     )
 
 
