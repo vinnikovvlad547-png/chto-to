@@ -23,4 +23,4 @@ cd weather-telegram-bot
 
 ### 2. Получите токен для погоды и самого бота
 зайдите в телеграмме в botfather и получите токен,
- а также зайдите на https://api.openweathermap.org/data/2.5/weather и получите api key
+ а также зайдите на https://api.openweathermap.org/data/2.5/weather и получите api key.
